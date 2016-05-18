@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+    <!-- ionic/angularjs js -->
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+    <!-- jquery -->
+    <script src="lib/jquery/dist/jquery.js"></script>
+    <!-- underscore js -->
+    <script src="lib/underscore/underscore.js"></script>
+    <!-- your app's js -->
+    <script src="js/app.js"></script>
+    <!-- ctrl's js -->
+    <script src="js/ctrl/todos.js"></script>
+    <!-- srv's js -->
+</head>
+
+<body ng-app="electronStarter" ng-controller="ElectronCtrl">
+    <ion-side-menus>
+        <!-- Center content -->
+        <ion-side-menu-content>
+            <ion-header-bar class="bar-dark">
+                <button class="button button-icon" ng-click="toggleProjects()">
+                    <i class="icon ion-navicon"></i>
+                </button>
+                <h1 class="title">Desktop Chat App con Electron</h1>
+                <!-- Btn nueva Task -->
+                <button class="button button-icon">
+                    <i class="icon ion-compose"></i>
+                </button>
+            </ion-header-bar>
+            <ion-content scroll="true">
+                <!-- Checkbox con título y tiempo total -->
+                <ul id="lista" class="list"></ul>
+            </ion-content>
+            <div class="bar bar-footer bar-balanced item-input-inset">
+                <label class="item-input-wrapper">
+                    <i class="icon ion-chatbox placeholder-icon"></i>
+                    <input id="msg" type="text" placeholder="Mensaje">
+                </label>
+                <button class="button button-clear" onclick="enviarMsg()">
+                    Enviar
+                </button>
+            </div>
+        </ion-side-menu-content>
+        <!-- Left menu -->
+        <ion-side-menu side="left">
+            <ion-header-bar class="bar-dark">
+                <button class="button button-icon ion-trash-a">
+                </button>
+                <h1 class="title">Proyectos</h1>
+                <button class="button button-icon ion-plus">
+                </button>
+            </ion-header-bar>
+            <ion-content scroll="false">
+                <ion-list>
+                    <ion-item>
+                        Item
+                    </ion-item>
+                </ion-list>
+            </ion-content>
+        </ion-side-menu>
+    </ion-side-menus>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="js/ext/socketIo.js"></script>
+    
+</body>
+
+</html>

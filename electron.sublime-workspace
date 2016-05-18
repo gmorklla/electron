@@ -1,0 +1,1504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exp",
+				"expressApp"
+			],
+			[
+				"porcentaj",
+				"porcentajes"
+			],
+			[
+				"tiempo",
+				"tiempoTranscurrido"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"con",
+				"console.log('Cambio"
+			],
+			[
+				"obt",
+				"obtenerTiempo"
+			],
+			[
+				"fec",
+				"fechaInicio"
+			],
+			[
+				"fech",
+				"fechaFin"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fecha",
+				"fechaFin"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"new",
+				"newProject"
+			],
+			[
+				"conte",
+				"contenedor"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"get",
+				"getElementById	method"
+			],
+			[
+				"Hola",
+				"HolaMundo"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"farma",
+				"farmaciasdesimilares	(nota.js)"
+			],
+			[
+				"termino",
+				"terminoFinal"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"articulo",
+				"articuloId	(articulo.js)"
+			],
+			[
+				"activeIn",
+				"GameObject.activeInHierarchy"
+			],
+			[
+				"clo",
+				"clouds"
+			],
+			[
+				"move",
+				"moveCamera"
+			],
+			[
+				"Hide",
+				"HideInInspector"
+			],
+			[
+				"cloud",
+				"cloudsInGame"
+			],
+			[
+				"Vec",
+				"Vector3"
+			],
+			[
+				"po",
+				"positionY"
+			],
+			[
+				"Seriali",
+				"SerializeField"
+			],
+			[
+				"OnTriggerEnter",
+				"Collider2D.OnTriggerEnter2D(other)"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"worl",
+				"worldWidth"
+			],
+			[
+				"world",
+				"worldHeight"
+			],
+			[
+				"Camera",
+				"Camera.main"
+			],
+			[
+				"bounds",
+				"Bounds.size"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"dec",
+				"deconfig	(prettyurlspc.js)"
+			],
+			[
+				"tip",
+				"tipoDeOferta"
+			],
+			[
+				"root",
+				"rootScope"
+			],
+			[
+				"Vecto",
+				"Vector2"
+			],
+			[
+				"Rigi",
+				"Rigidbody2D"
+			],
+			[
+				"Set",
+				"SetBool"
+			],
+			[
+				"Ph",
+				"Physics2D"
+			],
+			[
+				"sit",
+				"sitemapArray"
+			],
+			[
+				"the",
+				"theBestVideo"
+			],
+			[
+				"bs3-nav",
+				"bs3-navbar:responsive	bs3-navbar-responsive"
+			],
+			[
+				"bs3-templ",
+				"bs3-template:html5	bs3-html5-template"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"simino",
+				"siminotasArray"
+			],
+			[
+				"shareTe",
+				"shareTextNotas	(admin.html)"
+			],
+			[
+				"has",
+				"hashtagNotas	(admin.html)"
+			],
+			[
+				"bs3-input",
+				"bs3-input:text	bs3-input-text"
+			],
+			[
+				"img",
+				"imgHeight"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"bs3-tem",
+				"bs3-template:starter	bs3-template.starter"
+			],
+			[
+				"bs3-ta",
+				"bs3-table	bs3-table"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 2466,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 3137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/ext/socketIo.js",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/ctrl/todos.js",
+			"settings":
+			{
+				"buffer_size": 599,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/srv/jquery.js",
+			"settings":
+			{
+				"buffer_size": 196,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "ali",
+		"selected_items":
+		[
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start",
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/public",
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/public/lib",
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/public/lib/jquery",
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/public/lib/jquery/dist"
+	],
+	"file_history":
+	[
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/public/renderer.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/public/js/app.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/public/js/srv/_.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/renderer.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/index_2.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/todo/www/js/app.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/js/srv/projects.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/js/ctrl/todos.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/electron/electron-quick-start/index.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/node/getFiles.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/todo/www/js/ctrl/todos.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/todo/www/index.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/todo/www/css/style.css",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/todo/www/js/srv/projects.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/todo/www/js/srv/firebaseItems.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/todo/www/js/srv/_.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/todo/bower.json",
+		"/C/Users/pubmrodriguez/Documents/F.Guatemala/promo12.html",
+		"/C/Users/pubmrodriguez/Documents/F.Guatemala/promociones.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/services/loaddata.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/todo/config.xml",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/directives/bspopover.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/controllers/siminotas.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/README.md",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/todo/.bowerrc",
+		"/C/Users/pubmrodriguez/Documents/GitHub/ionic/.gitignore",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/views/allproducts.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/index.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/controllers/allproducts.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/app.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/views/medicamentos.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/views/nav.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/controllers/nav.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/controllers/detalle.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/controllers/medicamentos.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/web.config",
+		"/C/Users/pubmrodriguez/Desktop/Backups/pruebas/web.config",
+		"/C/Users/pubmrodriguez/Desktop/Backups/pruebas/app.js",
+		"/C/Users/pubmrodriguez/Desktop/Backups/pruebas/index.html",
+		"/C/Users/pubmrodriguez/Desktop/web.config",
+		"/C/Users/pubmrodriguez/Desktop/Web.config",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/views/inicio.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/controllers/inicio.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/styles/main.css",
+		"/C/Users/pubmrodriguez/Documents/Web.config",
+		"/C/Users/pubmrodriguez/Desktop/Backups/Web.config",
+		"/C/Users/pubmrodriguez/Desktop/Backups/pruebas/Web2.config",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/sitemap.xml",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/sitemap.xml",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/services/loadlocations.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/services/loadcomments.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/services/contactsrv.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/services/califica.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/services/busqueda.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/services/loadmedbyid.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/services/loadmedssrv.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/services/loadpromo.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/.gitignore",
+		"/C/Users/pubmrodriguez/Desktop/Backups/index.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/services/youtubelist.js",
+		"/C/Users/pubmrodriguez/Desktop/Backups/Web2.config",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/controllers/imageCheck.js",
+		"/C/Users/pubmrodriguez/Desktop/Backups/app.js",
+		"/C/Users/pubmrodriguez/Desktop/Web2.config",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/node/app.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/scripts/controllers/promociones.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/views/detalle.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/views/promociones.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/ChromePushManager.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/sw.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/manifest.json",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/notifications.js",
+		"/C/Users/pubmrodriguez/Desktop/proceso-git-heroku.txt",
+		"/C/Users/pubmrodriguez/Desktop/Universal.cs",
+		"/C/Users/pubmrodriguez/Desktop/.bowerrc",
+		"/C/Users/pubmrodriguez/Desktop/web2.config",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/views/imagesCheck.html",
+		"/C/Users/pubmrodriguez/Documents/node/05-08/app.js",
+		"/C/Users/pubmrodriguez/Documents/node/udemy/app.js",
+		"/C/Users/pubmrodriguez/Documents/node/udemy/todo-api/server.js",
+		"/C/Users/pubmrodriguez/Documents/node/05-08/routes/index.js",
+		"/C/Users/pubmrodriguez/Documents/node/mean/server.js",
+		"/C/Users/pubmrodriguez/Documents/node/mean/package.json",
+		"/C/Users/pubmrodriguez/Documents/node/mean/bower.json",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/data/ads.json",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/views/promocion.html",
+		"/C/Users/pubmrodriguez/Documents/GitHub/farmacias-web/app/data/notas.json",
+		"/C/Users/pubmrodriguez/Documents/GitHub/video2Brain/built/out.js",
+		"/C/Users/pubmrodriguez/Documents/GitHub/video2Brain/HolaMundo.ts",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/mob/builds/css/estilos.css",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/mob/builds/partials/nav.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/index.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/consejos.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/productos.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/antiarrugas.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/antiarrugas2.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/antiarrugas3.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/antioxidante.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/antioxidante2.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/antioxidante3.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/anuncios.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/anuncios2.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/arrugas_en_el_rostro.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/bb-cream-tono-claro.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/bb-cream.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/belleza.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/blanqueadora.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/blanqueadora2.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/blanqueadora3.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/bloqueador.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/catalogo.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/consejos2.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/contacto.aspx",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/contacto.htm",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/contacto.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/contorno_de_ojos.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/crema-antioxidante.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/crema-blanqueadora.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/crema_facial_astaxantina.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/dermo_tonificante.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/desmaquillante.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/desmaquillante2.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/desmaquillante3.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/desmaquillanteB.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/desmaquillanteC.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/desmaquillanteD.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/eternalSecret.html",
+		"/C/Users/pubmrodriguez/Documents/EternalSecret/exfoliante_facial.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\Users\\pubmrodriguez\\Documents\\GitHub\\electron\\electron-quick-start",
+			"C:\\Users\\pubmrodriguez\\Documents\\EternalSecret",
+			"C:\\Users\\pubmrodriguez\\Desktop\\fun",
+			"C:\\Users\\pubmrodriguez\\Documents\\GitHub\\farmacias-web\\app",
+			"C:\\Users\\pubmrodriguez\\Documents\\GitHub\\farmacias-web\\app\\scripts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"electroStarter",
+			"starter",
+			"TodoCtrl",
+			"expressApp",
+			"var",
+			"app",
+			"createProject",
+			"farmaciasWebApp",
+			"$scope.taskModal",
+			"newTask",
+			"new-task",
+			"new-task.html",
+			"ionicPopup",
+			"left",
+			"gray",
+			"black",
+			"span",
+			"40px",
+			"fechaFin",
+			"ng-if=\"task.fechaFin\"",
+			"ion-item",
+			"onDoubleTap",
+			"<br>",
+			"fechaInicio",
+			"isChecked",
+			"$scope.activeProject",
+			"removeProject",
+			"save",
+			"projectS",
+			"projects",
+			"removeProject",
+			"$scope.projects",
+			"createProject",
+			"prompt",
+			"createProject",
+			"all",
+			"Projects",
+			"directive",
+			"farmaciasWebApp",
+			"SiminotasCtrl",
+			"farmaciasWebApp",
+			"producto",
+			"paginationNumber",
+			"prevState",
+			");\n",
+			"producto",
+			"vitaminas",
+			"etiqueta",
+			"MedicamentosCtrl",
+			"stateParams",
+			"termino",
+			"producto",
+			"productos",
+			"#!/",
+			"http://f",
+			"http://",
+			"Imágenes",
+			"meds",
+			"BarraControl",
+			"localizaFrame",
+			"muestraAlerta",
+			"sitemap",
+			"version",
+			"    	<div class=\"redes\">\n        \n        	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n<!-- Please call pinit.js only once per page -->\n<script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n        \n        </div>",
+			"  119:     	<div class=\"redes\">\n  120:         \n  121:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  122: <!-- Please call pinit.js only once per page -->\n  123: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  124:         \n  125:         </div>",
+			"  133:     	<div class=\"redes\">\n  134:         \n  135:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  136: <!-- Please call pinit.js only once per page -->\n  137: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  138:         \n  139:         </div>",
+			"  137:     	<div class=\"redes\">\n  138:         \n  139:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  140: <!-- Please call pinit.js only once per page -->\n  141: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  142:         \n  143:         </div>",
+			"  194:     	<div class=\"redes\">\n  195:         \n  196:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  197: <!-- Please call pinit.js only once per page -->\n  198: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  199:         \n  200:         </div>",
+			"  109:     	<div class=\"redes\">\n  110:         \n  111:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  112: <!-- Please call pinit.js only once per page -->\n  113: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  114:         \n  115:         </div>",
+			"  118:     	<div class=\"redes\">\n  119:         \n  120:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  121: <!-- Please call pinit.js only once per page -->\n  122: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  123:         \n  124:         </div>",
+			"  190:     	<div class=\"redes\">\n  191:         \n  192:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  193: <!-- Please call pinit.js only once per page -->\n  194: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  195:         \n  196:         </div>",
+			"  183:     	<div class=\"redes\">\n  184:         \n  185:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  186: <!-- Please call pinit.js only once per page -->\n  187: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  188:         \n  189:         </div>",
+			"  195:     	<div class=\"redes\">\n  196:         \n  197:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  198: <!-- Please call pinit.js only once per page -->\n  199: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  200:         \n  201:         </div>",
+			"  115:     	<div class=\"redes\">\n  116:         \n  117:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  118: <!-- Please call pinit.js only once per page -->\n  119: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  120:         \n  121:         </div>",
+			"  106:     	<div class=\"redes\">\n  107:         \n  108:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  109: <!-- Please call pinit.js only once per page -->\n  110: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  111:         \n  112:         </div>",
+			"  110:     	<div class=\"redes\">\n  111:         \n  112:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  113: <!-- Please call pinit.js only once per page -->\n  114: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  115:         \n  116:         </div>",
+			"  117:     	<div class=\"redes\">\n  118:         \n  119:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  120: <!-- Please call pinit.js only once per page -->\n  121: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  122:         \n  123:         </div>",
+			"  143:     	<div class=\"redes\">\n  144:         \n  145:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  146: <!-- Please call pinit.js only once per page -->\n  147: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  148:         \n  149:         </div>",
+			"  112:     	<div class=\"redes\">\n  113:         \n  114:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  115: <!-- Please call pinit.js only once per page -->\n  116: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  117:         \n  118:         </div>",
+			"  113:     	<div class=\"redes\">\n  114:         \n  115:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  116: <!-- Please call pinit.js only once per page -->\n  117: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  118:         \n  119:         </div>",
+			"  144:     	<div class=\"redes\">\n  145:         \n  146:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  147: <!-- Please call pinit.js only once per page -->\n  148: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  149:         \n  150:         </div>",
+			"  103:     	<div class=\"redes\">\n  104:         \n  105:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  106: <!-- Please call pinit.js only once per page -->\n  107: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  108:         \n  109:         </div>",
+			"  111:     	<div class=\"redes\">\n  112:         \n  113:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  114: <!-- Please call pinit.js only once per page -->\n  115: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  116:         \n  117:         </div>",
+			"  190:     	<div class=\"redes\">\n  191:         \n  192:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  193: <!-- Please call pinit.js only once per page -->\n  194: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  195:         \n  196:         </div>",
+			"  183:     	<div class=\"redes\">\n  184:         \n  185:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  186: <!-- Please call pinit.js only once per page -->\n  187: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  188:         \n  189:         </div>",
+			"  195:     	<div class=\"redes\">\n  196:         \n  197:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  198: <!-- Please call pinit.js only once per page -->\n  199: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  200:         \n  201:         </div>",
+			"  143:     	<div class=\"redes\">\n  144:         \n  145:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  146: <!-- Please call pinit.js only once per page -->\n  147: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  148:         \n  149:         </div>",
+			"  110:     	<div class=\"redes\">\n  111:         \n  112:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  113: <!-- Please call pinit.js only once per page -->\n  114: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  115:         \n  116:         </div>",
+			"  116:     	<div class=\"redes\">\n  117:         \n  118:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  119: <!-- Please call pinit.js only once per page -->\n  120: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  121:         \n  122:         </div>",
+			"  120:     	<div class=\"redes\">\n  121:         \n  122:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  123: <!-- Please call pinit.js only once per page -->\n  124: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  125:         \n  126:         </div>",
+			"  114:     	<div class=\"redes\">\n  115:         \n  116:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  117: <!-- Please call pinit.js only once per page -->\n  118: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  119:         \n  120:         </div>",
+			"  115:     	<div class=\"redes\">\n  116:         \n  117:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  118: <!-- Please call pinit.js only once per page -->\n  119: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  120:         \n  121:         </div>",
+			"  117:     	<div class=\"redes\">\n  118:         \n  119:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  120: <!-- Please call pinit.js only once per page -->\n  121: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  122:         \n  123:         </div>",
+			"  111:     	<div class=\"redes\">\n  112:         \n  113:         	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n  114: <!-- Please call pinit.js only once per page -->\n  115: <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n  116:         \n  117:         </div>",
+			"Searching",
+			"    	<div class=\"redes\">\n        \n        	<a data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n<!-- Please call pinit.js only once per page -->\n<script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n        \n        </div>",
+			"redes",
+			"estilos2",
+			"ads",
+			"loadData",
+			"siminotas",
+			"/#/",
+			"phatom",
+			"onCallback",
+			"htmlReady",
+			"prettyFn",
+			"notaActual",
+			"banner",
+			"catalo",
+			"description",
+			"face",
+			"description",
+			"searchResult",
+			"enterF",
+			"window",
+			"ver tod",
+			"isMobile",
+			"bootstrap",
+			"sW.js",
+			"sw",
+			"nota",
+			"\", \"",
+			", ",
+			"},",
+			"}",
+			"roboto",
+			"geocoder",
+			"directionsService"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"electronStarter",
+			"        <div class=\"redes\">\n        \n            <a id=\"pint-main\" data-pin-do=\"buttonFollow\" href=\"http://www.pinterest.com/eternalsecret/\">Pinterest</a>\n            <a href=\"https://www.facebook.com/EternalSecretMX\" class=\"face\" target=\"_blank\"><img src=\"images/faceIcon.png\" alt=\"\"></a>\n            <!-- Please call pinit.js only once per page -->\n            <script type=\"text/javascript\" async src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n        \n        </div>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								801,
+								801
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Unity3D/UnityJavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								702,
+								702
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/js/ext/socketIo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Unity3D/UnityJavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/js/ctrl/todos.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Unity3D/UnityJavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/js/srv/jquery.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								178
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Unity3D/UnityJavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.typescript_output":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "electron.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"medica",
+				"app\\views\\medicamentos.html"
+			],
+			[
+				"index",
+				"app\\index.html"
+			],
+			[
+				"medic",
+				"app\\views\\medicamentos.html"
+			],
+			[
+				"nav",
+				"app\\views\\nav.html"
+			],
+			[
+				"detalle",
+				"app\\scripts\\controllers\\detalle.js"
+			],
+			[
+				"app",
+				"app\\scripts\\app.js"
+			],
+			[
+				"medicam",
+				"app\\scripts\\controllers\\medicamentos.js"
+			],
+			[
+				"inicio",
+				"app\\scripts\\controllers\\inicio.js"
+			],
+			[
+				"youtube",
+				"app\\scripts\\services\\youtubelist.js"
+			],
+			[
+				"medi",
+				"app\\scripts\\controllers\\medicamentos.js"
+			],
+			[
+				"image",
+				"app\\scripts\\controllers\\imageCheck.js"
+			],
+			[
+				"promo",
+				"app\\views\\promociones.html"
+			],
+			[
+				"promocio",
+				"app\\scripts\\controllers\\promociones.js"
+			],
+			[
+				"detal",
+				"app\\scripts\\controllers\\detalle.js"
+			],
+			[
+				"not",
+				"app\\notifications.js"
+			],
+			[
+				"imageche",
+				"app\\scripts\\controllers\\imageCheck.js"
+			],
+			[
+				"promociones",
+				"app\\views\\promociones.html"
+			],
+			[
+				"promocion",
+				"app\\scripts\\controllers\\promociones.js"
+			],
+			[
+				"faqs",
+				"faqs.html"
+			],
+			[
+				"produ",
+				"productos.html"
+			],
+			[
+				"conse",
+				"consejos.html"
+			],
+			[
+				"simino",
+				"app\\scripts\\controllers\\siminotas.js"
+			],
+			[
+				"nota",
+				"app\\views\\notasHistorico.html"
+			],
+			[
+				"inde",
+				"farmacias-web\\app\\index.html"
+			],
+			[
+				"web.",
+				"app\\web.config"
+			],
+			[
+				"ind",
+				"app\\index.html"
+			],
+			[
+				"nav.",
+				"app\\views\\nav.html"
+			],
+			[
+				"app.j",
+				"app\\scripts\\app.js"
+			],
+			[
+				"bien",
+				"app\\views\\bienestar.html"
+			],
+			[
+				"app.js",
+				"app\\scripts\\app.js"
+			],
+			[
+				"localiza",
+				"app\\views\\localizaFrame.html"
+			],
+			[
+				"main",
+				"app\\styles\\main.css"
+			],
+			[
+				"siminot",
+				"farmacias-web\\app\\views\\siminotas.html"
+			],
+			[
+				"locali",
+				"farmacias-web\\app\\scripts\\controllers\\localiza.js"
+			],
+			[
+				"sexul",
+				"CNDEE - angular\\app\\scripts\\controllers\\sexualidad.js"
+			],
+			[
+				"web.con",
+				"app\\web.config"
+			],
+			[
+				"det",
+				"app\\scripts\\controllers\\detalle.js"
+			],
+			[
+				"med",
+				"app\\scripts\\controllers\\medicamentos.js"
+			],
+			[
+				"desko",
+				"app\\styles\\desktop.css"
+			],
+			[
+				"comenta",
+				"app\\scripts\\controllers\\comentarios.js"
+			],
+			[
+				"fac",
+				"app\\views\\facturacion.html"
+			],
+			[
+				"factur",
+				"app\\views\\facturacion.html"
+			],
+			[
+				"comen",
+				"app\\views\\comentarios.html"
+			],
+			[
+				"deta",
+				"app\\scripts\\controllers\\detalle.js"
+			],
+			[
+				"contac",
+				"app\\views\\contacto.html"
+			],
+			[
+				"pre",
+				"app\\scripts\\services\\prettyurlspc.js"
+			],
+			[
+				"simi",
+				"app\\views\\siminotas.html"
+			],
+			[
+				"app.",
+				"app\\scripts\\app.js"
+			],
+			[
+				"desk",
+				"app\\styles\\desktop.css"
+			],
+			[
+				"index.ht",
+				"app\\index.html"
+			],
+			[
+				"detalle.j",
+				"app\\scripts\\controllers\\detalle.js"
+			],
+			[
+				"foo",
+				"app\\views\\footerFrame.html"
+			],
+			[
+				"footer.html",
+				"app\\views\\footer.html"
+			],
+			[
+				"nav.html",
+				"app\\views\\nav.html"
+			],
+			[
+				"adminis",
+				"app\\scripts\\controllers\\administrador.js"
+			],
+			[
+				"producto",
+				"app\\scripts\\services\\producto.js"
+			],
+			[
+				"youtu",
+				"app\\scripts\\services\\youtubelist.js"
+			],
+			[
+				"main.c",
+				"app\\styles\\main.css"
+			],
+			[
+				"articulo",
+				"CNDEE - angular\\app\\scripts\\controllers\\articulo.js"
+			],
+			[
+				"ads",
+				"app\\data\\ads.json"
+			],
+			[
+				"admi",
+				"app\\scripts\\controllers\\administrador.js"
+			],
+			[
+				"tabl",
+				"app\\styles\\tablets.css"
+			],
+			[
+				"detalle.h",
+				"app\\views\\detalle.html"
+			],
+			[
+				"main.cs",
+				"app\\styles\\main.css"
+			],
+			[
+				"notas",
+				"app\\views\\notasHistorico.html"
+			],
+			[
+				"barra",
+				"app\\views\\barra.html"
+			],
+			[
+				"admin",
+				"app\\views\\admin.html"
+			],
+			[
+				"conta",
+				"app\\scripts\\controllers\\contacto.js"
+			],
+			[
+				"contacto.",
+				"app\\views\\contacto.html"
+			],
+			[
+				"simin",
+				"app\\data\\siminotas.json"
+			],
+			[
+				"inici",
+				"app\\scripts\\controllers\\inicio.js"
+			],
+			[
+				"des",
+				"app\\styles\\desktop.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

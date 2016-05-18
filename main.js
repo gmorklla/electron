@@ -1,19 +1,45 @@
-const electron = require('electron')
+const electron = require('electron');
+const express = require('express');
+const expressApp = express();
+const http = require('http').Server(expressApp);
+const io = require('socket.io')(http);
 // Module to control application life.
-const app = electron.app
+const app = electron.app;
 // Module to create native browser window.
-const BrowserWindow = electron.BrowserWindow
+const BrowserWindow = electron.BrowserWindow;
 
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
 let mainWindow
 
 function createWindow () {
+
+  expressApp.use('/', express.static(__dirname + '/public'));
+
+  http.listen(3000, function(){
+    console.log('listening on *:3000');
+  });
+
+  expressApp.get('/', function(req, res){
+    res.sendFile(__dirname + '/index.html');
+  });
+
+  // socket.io code
+  io.on('connection', function(socket){
+    console.log('a user connected');
+    socket.on('disconnect', function(){
+      console.log('user disconnected');
+    });
+    socket.on('chat message', function(msg){
+      io.emit('chat message', msg);
+    });        
+  });  
+
   // Create the browser window.
-  mainWindow = new BrowserWindow({width: 800, height: 600})
+  mainWindow = new BrowserWindow({width: 400, height: 600})
 
   // and load the index.html of the app.
-  mainWindow.loadURL(`file://${__dirname}/index.html`)
+  mainWindow.loadURL(`http://localhost:3000/`)
 
   // Open the DevTools.
   mainWindow.webContents.openDevTools()
