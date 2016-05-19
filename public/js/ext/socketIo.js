@@ -1,15 +1,11 @@
 var socket = io();
 
 function enviarMsg() {
-    var txt = document.getElementById("msg").value;
-    socket.emit('chat message', txt);
-    document.getElementById("msg").value = '';
+    var txt = $('#msg').val();
+    socket.emit('send', txt);
+    $('#msg').val('');
 }
 
-socket.on('chat message', function(msg){
-	var node = document.createElement("li");
-	node.className = "item";
-	var textnode = document.createTextNode(msg);
-	node.appendChild(textnode);
-	document.getElementById("lista").appendChild(node);   
+socket.on('chat', function(user, msg){
+	$('#lista').append($('<li class="item">').text(msg));
 });

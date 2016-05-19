@@ -13,9 +13,11 @@
     <!-- ionic/angularjs js -->
     <script src="lib/ionic/js/ionic.bundle.js"></script>
     <!-- jquery -->
-    <script src="lib/jquery/dist/jquery.js"></script>
-    <!-- underscore js -->
-    <script src="lib/underscore/underscore.js"></script>
+    <script src="lib/jquery/dist/jquery.js" onload="window.$ = window.jQuery = module.exports;"></script>
+    <!-- underscore -->
+    <script src="lib/underscore/underscore.js" onload="window._ = window._ = module.exports;"></script>
+    <!-- socket io -->
+    <script src="/socket.io/socket.io.js"></script>
     <!-- your app's js -->
     <script src="js/app.js"></script>
     <!-- ctrl's js -->
@@ -31,13 +33,16 @@
                 <button class="button button-icon" ng-click="toggleProjects()">
                     <i class="icon ion-navicon"></i>
                 </button>
-                <h1 class="title">Desktop Chat App con Electron</h1>
+                <h1 class="title">Chat App con Electron</h1>
                 <!-- Btn nueva Task -->
                 <button class="button button-icon">
                     <i class="icon ion-compose"></i>
                 </button>
             </ion-header-bar>
-            <ion-content scroll="true">
+            <ion-subheader-bar class="bar bar-subheader">
+              <h2 class="title">{{avisos}}</h2>
+            </ion-subheader-bar>            
+            <ion-content class="has-header has-subheader" scroll="true">
                 <!-- Checkbox con título y tiempo total -->
                 <ul id="lista" class="list"></ul>
             </ion-content>
@@ -46,7 +51,7 @@
                     <i class="icon ion-chatbox placeholder-icon"></i>
                     <input id="msg" type="text" placeholder="Mensaje">
                 </label>
-                <button class="button button-clear" onclick="enviarMsg()">
+                <button class="button button-clear" ng-click="enviarMsg()">
                     Enviar
                 </button>
             </div>
@@ -61,7 +66,7 @@
                 </button>
             </ion-header-bar>
             <ion-content scroll="false">
-                <ion-list>
+                <ion-list id="users">
                     <ion-item>
                         Item
                     </ion-item>
@@ -69,9 +74,6 @@
             </ion-content>
         </ion-side-menu>
     </ion-side-menus>
-
-    <script src="/socket.io/socket.io.js"></script>
-    <script src="js/ext/socketIo.js"></script>
     
 </body>
 

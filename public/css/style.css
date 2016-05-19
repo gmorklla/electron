@@ -46,7 +46,10 @@
     -webkit-animation-play-state: paused; /* Chrome, Safari, Opera */
     animation-play-state: paused;
 }
-
 .col {
 	padding: 10px;
+}
+.item span {
+  color:gray;
+  font-size: 0.8em;
 }

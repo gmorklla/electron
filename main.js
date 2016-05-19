@@ -2,15 +2,19 @@ const electron = require('electron');
 const express = require('express');
 const expressApp = express();
 const http = require('http').Server(expressApp);
-const io = require('socket.io')(http);
+const socket = require('socket.io')(http);
 // Module to control application life.
 const app = electron.app;
 // Module to create native browser window.
 const BrowserWindow = electron.BrowserWindow;
 
+const storage = require('electron-json-storage');
+
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
 let mainWindow
+
+var people = {};
 
 function createWindow () {
 
@@ -25,18 +29,29 @@ function createWindow () {
   });
 
   // socket.io code
-  io.on('connection', function(socket){
-    console.log('a user connected');
-    socket.on('disconnect', function(){
-      console.log('user disconnected');
+  socket.on('connection', function(client){
+
+    client.on("join", function(name){     
+        people[client.id] = name;
+        socket.emit("update", name + " se ha unido al chat.")
+        socket.emit("update-people", people);
+        console.log(people);
     });
-    socket.on('chat message', function(msg){
-      io.emit('chat message', msg);
-    });        
+
+    client.on("send", function(msg){
+      socket.emit("chat", people[client.id], msg);
+    });
+
+    client.on("disconnect", function(){
+        socket.emit("update", people[client.id] + " ha salido del chat.");
+        delete people[client.id];
+        socket.emit("update-people", people);
+    });
+
   });  
 
   // Create the browser window.
-  mainWindow = new BrowserWindow({width: 400, height: 600})
+  mainWindow = new BrowserWindow({width: 600, height: 600})
 
   // and load the index.html of the app.
   mainWindow.loadURL(`http://localhost:3000/`)
