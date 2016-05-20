@@ -10,6 +10,8 @@ const BrowserWindow = electron.BrowserWindow;
 
 const storage = require('electron-json-storage');
 
+const _ = require('underscore');
+
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
 let mainWindow
@@ -31,8 +33,8 @@ function createWindow () {
   // socket.io code
   socket.on('connection', function(client){
 
-    client.on("join", function(name){     
-        people[client.id] = name;
+    client.on("join", function(name){
+        people[client.id] = {'nombre': name};
         socket.emit("update", name + " se ha unido al chat.")
         socket.emit("update-people", people);
         console.log(people);
@@ -47,6 +49,12 @@ function createWindow () {
         delete people[client.id];
         socket.emit("update-people", people);
     });
+
+    client.on('say to someone', function(id, msg){
+      console.log('ID: ' + id + ' MSG: ' + msg);
+      var key = _.findKey(people, {'nombre': id});
+      socket.to(key).emit('privateM', people[client.id], msg);
+    });    
 
   });  
 

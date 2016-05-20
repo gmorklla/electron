@@ -59,7 +59,7 @@
         <!-- Left menu -->
         <ion-side-menu side="left">
             <ion-header-bar class="bar-dark">
-                <button class="button button-icon ion-trash-a">
+                <button class="button button-icon ion-trash-a" ng-click="getRoom()">
                 </button>
                 <h1 class="title">Proyectos</h1>
                 <button class="button button-icon ion-plus">
@@ -68,12 +68,19 @@
             <ion-content scroll="false">
                 <ion-list id="users">
                     <ion-item>
-                        Item
+                        No hay usuarios
                     </ion-item>
                 </ion-list>
             </ion-content>
         </ion-side-menu>
     </ion-side-menus>
+
+    <script>
+        $('.button').click(function(event) {
+            /* Act on the event */
+            console.log(event);
+        });        
+    </script>
     
 </body>
 
